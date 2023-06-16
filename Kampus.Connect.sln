@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kampus.Connect", "Kampus.Connect\Kampus.Connect.csproj", "{4FA4B488-0915-4913-BFAC-A627BB1BD588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FA4B488-0915-4913-BFAC-A627BB1BD588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA4B488-0915-4913-BFAC-A627BB1BD588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA4B488-0915-4913-BFAC-A627BB1BD588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA4B488-0915-4913-BFAC-A627BB1BD588}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D347C0D3-B6AE-4688-A515-2A3DC55BBE69}
+	EndGlobalSection
+EndGlobal
